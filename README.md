@@ -1,6 +1,6 @@
 # Visualize trilateration using matplotlib.
 ## Trilateration Theory
-### Read everything with a grain of salt because im no expert in mathematics.
+### Read everything with a grain of salt because i'm no expert in mathematics.
 #### Requirement's for trilateration.
 - 1. Three reference points of which (x,y) coordinates are known at all times.
 - 2. Distances between the reference point and the unknown point that you want to find out.
