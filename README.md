@@ -10,6 +10,10 @@
 ![image](https://user-images.githubusercontent.com/80245457/210522285-9e5a4aa1-85d0-4685-b51b-a52fcac844d4.png)
 #### So now we can make all the reference points circles (C1, C2, C3) with radii == D1-D3
 ![image](https://user-images.githubusercontent.com/80245457/210522571-8d6226b0-6829-4d7c-bac9-a6d50df70a56.png)
+#### Now we can use the following equations to solve x,y
+![image](https://user-images.githubusercontent.com/80245457/210607956-8449418b-367e-4dde-b116-418e3b37d6d1.png)
+![Uploading image.png…]()
+
 
 
 
