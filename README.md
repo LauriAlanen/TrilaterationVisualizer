@@ -1,10 +1,16 @@
 # Visualize trilateration using matplotlib.
 ## Trilateration Theory
 ### Read everything with a grain of salt because im no expert in mathematics.
-#### Requirement's for trilateration. 1. Three reference points of which coordinates are known at all times. 2. Distances between the reference point and the unknown point that you want to find out.
-#### First of all we need minimum 3 known points and their (x,y) coordinates, let's call them A,B,C.
-![image](https://user-images.githubusercontent.com/80245457/210519616-06677fbc-0ed2-42a0-bf30-c8da8b3980c3.png)
-####
+#### Requirement's for trilateration.
+- 1. Three reference points of which (x,y) coordinates are known at all times.
+- 2. Distances between the reference point and the unknown point that you want to find out.
+#### First we need three known reference points and their (x,y) coordinates, let's call them R1,R2,R3. Point U1 is the unknown point.
+![image](https://user-images.githubusercontent.com/80245457/210521723-2ca14822-e557-4528-9303-ca6dd1510c78.png)
+#### Then we need the distances between R1-U1, R2-U1, R3-U1.
+![image](https://user-images.githubusercontent.com/80245457/210522285-9e5a4aa1-85d0-4685-b51b-a52fcac844d4.png)
+#### So now we can make all the reference points circles (C1, C2, C3) with radii == distance between Rn-U1
+![image](https://user-images.githubusercontent.com/80245457/210522571-8d6226b0-6829-4d7c-bac9-a6d50df70a56.png)
+
 
 
 ### The plot should look something like this. Ofcourse depending on the input.
