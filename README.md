@@ -8,7 +8,7 @@
 ![image](https://user-images.githubusercontent.com/80245457/210521723-2ca14822-e557-4528-9303-ca6dd1510c78.png)
 #### Then we need the distances between R1-U1, R2-U1, R3-U1.
 ![image](https://user-images.githubusercontent.com/80245457/210522285-9e5a4aa1-85d0-4685-b51b-a52fcac844d4.png)
-#### So now we can make all the reference points circles (C1, C2, C3) with radii == distance between Rn-U1
+#### So now we can make all the reference points circles (C1, C2, C3) with radii == D1-D3
 ![image](https://user-images.githubusercontent.com/80245457/210522571-8d6226b0-6829-4d7c-bac9-a6d50df70a56.png)
 
 
