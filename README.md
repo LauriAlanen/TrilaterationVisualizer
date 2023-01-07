@@ -13,9 +13,12 @@
 ### More on https://www.101computing.net/cell-phone-trilateration-algorithm/
 
 
+### With the following equations we get the plot below, just remeber that the values are inverted so -5 == 5, -8 == 8 etc....
+![image](https://user-images.githubusercontent.com/80245457/211160162-15f01c25-8af3-4128-9794-ecb3c2ba30c2.png)
 
 ### The plot should look something like this. Ofcourse depending on the input.
-![image](https://user-images.githubusercontent.com/80245457/210432809-c6e4aafc-ff9f-417b-9a02-6baf9eee45a1.png)
+![image](https://user-images.githubusercontent.com/80245457/211160136-5d4de9ab-e369-4e8c-87ca-721cad0df342.png)
+
 
 ### Trilateration Use cases
 #### Trilateration is used in many real world applications that need positioning including GPS. One project idea i got while working on this project is to track the position where a ping pong ball hits the plate using 3-4 microphones.
